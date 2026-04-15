@@ -30,6 +30,6 @@ src/
 
 
 ## 🎯 Future Improvements
-- Add file storage (save data permanently)
+- Add file storage (save data permanently) -- Added✅
 - Add GUI or web interface
 - Convert to Spring Boot backend
